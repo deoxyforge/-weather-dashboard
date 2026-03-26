@@ -1,0 +1,13 @@
+# SkyView Weather Dashboard - Requirements
+
+# Optional (for local development server)
+live-server
+
+# Optional (if using Node environment)
+http-server
+
+# API Requirement
+OpenWeatherMap API Key (Free)
+
+# Browser Requirement
+Any modern browser (Chrome, Edge, Firefox)
